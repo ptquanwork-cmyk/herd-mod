@@ -1,0 +1,6 @@
+{
+  "name": "herd",
+  "version": "0.1.0",
+  "description": "Run and watch many Claude sessions through herdr from chat, and view or edit project files in a pane.",
+  "types": "./types/index.d.ts"
+}

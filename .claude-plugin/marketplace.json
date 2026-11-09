@@ -1,0 +1,5 @@
+{
+  "name": "herd-local",
+  "owner": { "name": "ptquanwork-cmyk" },
+  "plugins": [{ "name": "herd", "source": "./" }]
+}
